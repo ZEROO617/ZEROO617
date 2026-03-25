@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Yoon
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... ComputerScience and Design
 
 <!---
 ZEROO617/ZEROO617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
