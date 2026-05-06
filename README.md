@@ -50,7 +50,7 @@
 <!-- ===================== CONTACT ===================== -->
 ## 📫 Contact
 <p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thunder0601@soongsil.ac.kr">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-blog-url.com">
